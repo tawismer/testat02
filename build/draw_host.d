@@ -1,0 +1,148 @@
+build/draw_host.o: draw.c
+draw.c:
+build/draw_host.o: template.h
+template.h:
+build/draw_host.o: oscar/include/oscar.h
+oscar/include/oscar.h:
+build/draw_host.o: oscar/include/nih.h
+oscar/include/nih.h:
+build/draw_host.o: /usr/lib/gcc/i686-linux-gnu/4.6/include/stdint.h
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdint.h:
+build/draw_host.o: /usr/include/stdint.h
+/usr/include/stdint.h:
+build/draw_host.o: /usr/include/features.h
+/usr/include/features.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/predefs.h
+/usr/include/i386-linux-gnu/bits/predefs.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/sys/cdefs.h
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/wordsize.h
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/gnu/stubs.h
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/gnu/stubs-32.h
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/wchar.h
+/usr/include/i386-linux-gnu/bits/wchar.h:
+build/draw_host.o: /usr/lib/gcc/i686-linux-gnu/4.6/include/stdbool.h
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdbool.h:
+build/draw_host.o: /usr/include/endian.h
+/usr/include/endian.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/endian.h
+/usr/include/i386-linux-gnu/bits/endian.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/byteswap.h
+/usr/include/i386-linux-gnu/bits/byteswap.h:
+build/draw_host.o: oscar/include/version.h
+oscar/include/version.h:
+build/draw_host.o: oscar/include/error.h
+oscar/include/error.h:
+build/draw_host.o: oscar/include/pool.h
+oscar/include/pool.h:
+build/draw_host.o: /usr/include/stdio.h
+/usr/include/stdio.h:
+build/draw_host.o: /usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stddef.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/types.h
+/usr/include/i386-linux-gnu/bits/types.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/typesizes.h
+/usr/include/i386-linux-gnu/bits/typesizes.h:
+build/draw_host.o: /usr/include/libio.h
+/usr/include/libio.h:
+build/draw_host.o: /usr/include/_G_config.h
+/usr/include/_G_config.h:
+build/draw_host.o: /usr/include/wchar.h
+/usr/include/wchar.h:
+build/draw_host.o: /usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h
+/usr/lib/gcc/i686-linux-gnu/4.6/include/stdarg.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/stdio_lim.h
+/usr/include/i386-linux-gnu/bits/stdio_lim.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/sys_errlist.h
+/usr/include/i386-linux-gnu/bits/sys_errlist.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/stdio.h
+/usr/include/i386-linux-gnu/bits/stdio.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/stdio2.h
+/usr/include/i386-linux-gnu/bits/stdio2.h:
+build/draw_host.o: /usr/include/strings.h
+/usr/include/strings.h:
+build/draw_host.o: /usr/include/xlocale.h
+/usr/include/xlocale.h:
+build/draw_host.o: oscar/include/support.h
+oscar/include/support.h:
+build/draw_host.o: oscar/include/list.h
+oscar/include/list.h:
+build/draw_host.o: oscar/include/board.h
+oscar/include/board.h:
+build/draw_host.o: oscar/include/bmp.h
+oscar/include/bmp.h:
+build/draw_host.o: oscar/include/cam.h
+oscar/include/cam.h:
+build/draw_host.o: oscar/include/cfg.h
+oscar/include/cfg.h:
+build/draw_host.o: oscar/include/cpld.h
+oscar/include/cpld.h:
+build/draw_host.o: oscar/include/dma.h
+oscar/include/dma.h:
+build/draw_host.o: oscar/include/dspl.h
+oscar/include/dspl.h:
+build/draw_host.o: oscar/include/frd.h
+oscar/include/frd.h:
+build/draw_host.o: oscar/include/gpio.h
+oscar/include/gpio.h:
+build/draw_host.o: oscar/include/hsm.h
+oscar/include/hsm.h:
+build/draw_host.o: oscar/include/ipc.h
+oscar/include/ipc.h:
+build/draw_host.o: oscar/include/jpg.h
+oscar/include/jpg.h:
+build/draw_host.o: oscar/include/log.h
+oscar/include/log.h:
+build/draw_host.o: oscar/include/sim.h
+oscar/include/sim.h:
+build/draw_host.o: oscar/include/srd.h
+oscar/include/srd.h:
+build/draw_host.o: oscar/include/sup.h
+oscar/include/sup.h:
+build/draw_host.o: oscar/include/swr.h
+oscar/include/swr.h:
+build/draw_host.o: oscar/include/vis.h
+oscar/include/vis.h:
+build/draw_host.o: debug.h
+debug.h:
+build/draw_host.o: template_ipc.h
+template_ipc.h:
+build/draw_host.o: /usr/include/string.h
+/usr/include/string.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/string.h
+/usr/include/i386-linux-gnu/bits/string.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/string2.h
+/usr/include/i386-linux-gnu/bits/string2.h:
+build/draw_host.o: /usr/include/stdlib.h
+/usr/include/stdlib.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/string3.h
+/usr/include/i386-linux-gnu/bits/string3.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/waitflags.h
+/usr/include/i386-linux-gnu/bits/waitflags.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/waitstatus.h
+/usr/include/i386-linux-gnu/bits/waitstatus.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/sys/types.h
+/usr/include/i386-linux-gnu/sys/types.h:
+build/draw_host.o: /usr/include/time.h
+/usr/include/time.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/sys/select.h
+/usr/include/i386-linux-gnu/sys/select.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/select.h
+/usr/include/i386-linux-gnu/bits/select.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/sigset.h
+/usr/include/i386-linux-gnu/bits/sigset.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/time.h
+/usr/include/i386-linux-gnu/bits/time.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/select2.h
+/usr/include/i386-linux-gnu/bits/select2.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/sys/sysmacros.h
+/usr/include/i386-linux-gnu/sys/sysmacros.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/pthreadtypes.h
+/usr/include/i386-linux-gnu/bits/pthreadtypes.h:
+build/draw_host.o: /usr/include/alloca.h
+/usr/include/alloca.h:
+build/draw_host.o: /usr/include/i386-linux-gnu/bits/stdlib.h
+/usr/include/i386-linux-gnu/bits/stdlib.h:
